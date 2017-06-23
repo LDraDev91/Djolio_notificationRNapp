@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "754377146404",
+    "firebase_url": "https://djoli-djolilo.firebaseio.com",
+    "project_id": "djoli-djolilo",
+    "storage_bucket": "djoli-djolilo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754377146404:android:349a5b938782a387",
+        "android_client_info": {
+          "package_name": "com.eatables"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754377146404-h7ore6s7ikfbf2sn5nmp0kijlahj3snn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ6Tyu_h9xoBMxJjnTOqCgPc7JKkcRNpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

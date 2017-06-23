@@ -1,0 +1,7 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.formatOnSave": false,
+    "vsicons.presets.angular": false,
+    "python.linting.pylintEnabled": false,
+    "eslint.enable": false
+}
